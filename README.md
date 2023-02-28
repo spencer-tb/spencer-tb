@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @spencer-tb
-- 👀 I’m interested in Ethereum, AI, BCIs, Web Dev, Hustle Projects
-- 🌱 I’m currently learning React Developmen in my spare time
-- 💞️ I’m looking to collaborate on all of the above
+- 👀 I’m interested in Ethereum, AI, BCIs, Web Dev
 - 📫 How to reach me spencer@spencertaylorbrown.uk
 
 <!---
