@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spencer-tb
-- 👀 I’m interested in Ethereum, AI, BCIs, Web Dev
+- 👀 I’m interested in all things Ethereum, DeFi and AI.
 - 📫 How to reach me spencer@spencertaylorbrown.uk
 
 <!---
