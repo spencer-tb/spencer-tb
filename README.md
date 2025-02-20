@@ -2,6 +2,7 @@
 <div align="center">
   <br />
   <img src="https://github.com/spencer-tb/spencer-tb/blob/main/zeroforksgiven.png?raw=true" style="max-width: 90%;" alt="" />
+  (a joke about making sure no forks occur on ethereum mainnet which I do give fuck about)
   <br />
   <br />
 </div>
