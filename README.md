@@ -1,4 +1,4 @@
-![Python Versions](https://img.shields.io/badge/Python-3.10–3.13-blue)
+![Python Versions](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue)
 
 <!-- Header -->
 <div align="center">
