@@ -1,3 +1,5 @@
+![Python Versions](https://img.shields.io/badge/Python-3.10–3.13-blue)
+
 <!-- Header -->
 <div align="center">
   <br />
